@@ -1,0 +1,17 @@
+{
+  "name": "acapm",
+  "version": "1.0.0",
+  "description": "aca package manager assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "open-acapm": "./bin/index.js"
+  },
+  "author": "Gabe Flores",
+  "license": "ISC",
+  "keywords": [
+    "acapm"
+  ]
+}
